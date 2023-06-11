@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <h1>
-        Plantsy
+        Kimberly's Prop Haus
         <span className="logo" role="img">
           🌱
         </span>

@@ -1,46 +1,87 @@
 {
-  "plants": [
+  "props": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
+      "name": "Plate",
+      "image1": "./images/plate1.jpg",
+      "image2": "",
+      "description": "This plate is ceramic, custom pottery. There are three plates.",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "name": "Plate",
+      "image1": "./images/plate2.jpg",
+      "image2": "",
+      "description": "This plate is black ceramic. One off. ",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
+      "name": "Small White Plate",
+      "image1": "./images/plate3.jpg",
+      "image2": "",
+      "description": "There are lots of these plates.",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
+      "name": "White Plate",
+      "image1": "./images/plate4.jpg",
+      "image2": "",
+      "description": "White ceramic with blue detail, small",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Jade",
-      "image": "./images/jade.jpg",
-      "price": 10.37
+      "name": "Plate",
+      "image1": "./images/plate5.jpg",
+      "image2": "",
+      "description": "Small white plate with detail around the edge",
+      "id": 5
     },
     {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
+      "name": "Plate",
+      "image1": "./images/plate6.jpg",
+      "image2": "",
+      "description": "Small white plate with gold interior line",
+      "id": 6
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "Shallow Bowls",
+      "image1": "./images/plate7.jpg",
+      "image2": "",
+      "description": "Series of bowls with royal blue and gold filigree",
+      "id": 7
+    },
+    {
+      "name": "Plate",
+      "image1": "./images/plate8.jpg",
+      "image2": "",
+      "description": "This plate is transparent and purple tint.",
+      "id": 8
+    },
+    {
+      "name": "Shallow Bowl",
+      "image1": "./images/plate9.jpg",
+      "image2": "",
+      "description": "Matching to the set of plates, transparent and purplish.",
+      "id": 9
+    },
+    {
+      "name": "Plate",
+      "image1": "./images/plate10.jpg",
+      "description": "Flat white plate with rim",
+      "id": 10
+    },
+    {
+      "name": "Plate",
+      "image1": "./images/plate11.jpg",
+      "image2": "",
+      "description": "Plastic black plate with rim",
+      "id": 11
+    },
+    {
+      "name": "Tray",
+      "image1": "./images/plate12.jpg",
+      "image2": "",
+      "description": "Metallic tray - cheap material",
+      "id": 12
     }
   ]
 }
